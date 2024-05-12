@@ -17,16 +17,16 @@ Pré requisitos:
 **Linux**:
 
 ```shell
-git clone https://github.com/leafarsomel/tecnologiasDesruptivas.git
-cd tecdisruptivas
+git clone https://github.com/leafarsomel/tecnologiasDesruptivas-mod6.git
+cd tecnologiasDesruptivas-mod6
 ./mvnw spring-boot:run
 ```
 
 **Windows**:
 
 ```shell
-git clone https://github.com/leafarsomel/tecnologiasDesruptivas.git
-cd tecdisruptivas
+git clone https://github.com/leafarsomel/tecnologiasDesruptivas-mod6.git
+cd tecnologiasDesruptivas-mod6
 mvnw.cmd spring-boot:run
 ```
 
