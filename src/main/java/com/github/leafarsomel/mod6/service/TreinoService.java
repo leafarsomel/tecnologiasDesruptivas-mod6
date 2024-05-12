@@ -26,7 +26,7 @@ public class TreinoService {
         return treinoRepository.findById(id).orElse(null);
     }
 
-    public Long getTreinoSeries(Integer id) {
+    public Long getTreinoDuracao(Integer id) {
         Treino treino = treinoRepository.findById(id).orElse(null);
         if (treino != null) {
             return treino.getTreinoDuracao();
